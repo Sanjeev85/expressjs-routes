@@ -1,0 +1,8 @@
+Crud operation using express.js
+Operations performed :
+	1. Add User
+	2. Delete User
+	3. Update User
+	[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[
+	4. get Single User
+	5. get All Users

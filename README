@@ -1,7 +1,0 @@
-<h2> Crud operation using express.js </h2>
-Operations performed :
-1. Add User
-2. Delete User
-3. Update User
-4. get Single User
-5. get All Users
